@@ -1,3 +1,216 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://piko-heksagon.netlify.app/"
+languageCode = "en-us"
+title = "Dr. Vikram Uttam Patil"
+theme = "piko"
+paginate = "9"
+copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")'
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[minify]
+disableCSS = false
+disableHTML = false
+disableJS = false
+disableJSON = false
+disableSVG = false
+disableXML = false
+minifyOutput = true
+
+[minify.tdewolff.html]
+keepWhitespace = false
+
+[params]
+env = "production"
+author = "Ganesh Patil"
+description = "Your website description"
+math = false
+images = [ "/uploads/og.webp" ]
+comments = false
+mainSections = [ "blog" ]
+ShowShareButtons = false
+ShowCodeCopyButtons = false
+ShowRelated = false
+CookieNotice = "We use cookies to improve your experience on our site and to show you relevant advertising."
+CookieLink = "/legal/privacy/#cookies-and-web-beacons"
+CookieButton = "Cookies Policy"
+disableAnchoredHeadings = false
+ShowReadingTime = false
+ShowBreadCrumbs = true
+
+[params.analytics.google]
+
+[params.analytics.yandex]
+
+[params.analytics.bing]
+
+  [params.label]
+  title = "_Dr. Vikram Uttam Patil_"
+  text = "Welcome to Dr. Vikram Uttam Patil"
+  lightNavIcon = "/uploads/sun.svg"
+  darkNavIcon = "/uploads/zap.svg"
+  iconHeight = "35"
+  iconWIdth = "35"
+
+  [params.assets]
+  disableFingerprinting = false
+  favicon = "/uploads/zap.svg"
+  favicon16x16 = "/uploads/zap.svg"
+  favicon32x32 = "/uploads/zap.svg"
+  apple_touch_icon = "/uploads/zap.svg"
+  safari_pinned_tab = "/uploads/zap.svg"
+
+  [params.homepage]
+  disableHeroSection = false
+  heroTitle = "Dr. Vikram Uttam Patil"
+  heroDescription = "Is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
+  heroCTAPrimaryText = "Our services & specialties"
+  heroCTAPrimaryUrl = "/blog/"
+  heroCTASecondaryText = "Contact Me"
+  heroCTASecondaryUrl = "/contact/"
+  heroBackgroundImage = "/uploads/1.jpg"
+  disableBlogSection = false
+  blogTitle = "Our services & specialties"
+  blogDescription = "Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
+  seeMoreText = "More Posts"
+  disableAboutSection = false
+  aboutTitle = "About"
+  aboutDescription = "Top Gastroenterologist, hepatologist and interventional endoscopist"
+  aboutImgUrl = "vicky.jpeg"
+  aboutContent = "Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Viswaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 10+ articles in various national and international journals."
+  disablePortfolioSection = false
+  portfolioTitle = "Awards"
+  portfolioDescription = "Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
+  disableTestimonialSection = false
+  testimonialTitle = "Testimonial"
+  testimonialDescription = "Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/Prize 1.jpeg"
+    description = "Award One."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize 2.jpeg"
+    description = "Award Two."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize 3.jpeg"
+    description = "Award Three."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize4.jpg"
+    description = "Award Four."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize5.jpeg"
+    description = "Award Five."
+
+    [[params.homepage.testimonial]]
+    imageUrl = "/awards/Prize 1.jpeg"
+    description = "Best doctor for any digestive issues in pune."
+
+    [[params.homepage.testimonial]]
+    imageUrl = "/awards/prize 2.jpeg"
+    description = "Best doctor for any digestive issues in pune."
+
+    [[params.homepage.testimonial]]
+    imageUrl = "/awards/prize 3.jpeg"
+    description = "Best doctor for any digestive issues in pune."
+
+    [[params.homepage.testimonial]]
+    imageUrl = "/awards/prize4.jpg"
+    description = "Best doctor for any digestive issues in pune."
+
+    [[params.homepage.testimonial]]
+    imageUrl = "/awards/prize5.jpeg"
+    description = "Best doctor for any digestive issues in pune"
+
+    [params.homepage.cover]
+    imageUrl = "/uploads/portfolio-1.webp"
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = "0"
+  distance = "1000"
+  threshold = "0.4"
+  minMatchCharLength = "0"
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[params.plugins.css]]
+link = "plugins/css/pico.min.css"
+
+[[params.plugins.js]]
+link = "plugins/js/feather.min.js"
+
+[[menus.main]]
+name = "Blog"
+title = "Services"
+pre = "book"
+url = "/blog"
+weight = "20"
+
+[[menus.main]]
+name = "Search"
+title = "Search"
+pre = "search"
+url = "/search"
+weight = "30"
+
+[[menus.main]]
+name = "Contact"
+title = "Contact"
+pre = "mail"
+url = "/contact"
+weight = "80"
+
+[[menus.main]]
+name = "Case Study"
+title = "Case Study"
+pre = "pen-tool"
+url = ""
+weight = "50"
+
+[[menus.main]]
+name = "Specialities"
+title = "Specialities"
+pre = ""
+url = ""
+weight = "60"
+
+[[menus.main]]
+name = "Procedures"
+title = "Procedures"
+pre = ""
+url = ""
+weight = "70"
+
+[[menus.main]]
+name = "Members Off"
+title = "Members Off"
+pre = ""
+url = ""
+weight = "70"
+
+[[menus.search]]
+name = "Categories"
+title = "Categories"
+url = "/categories"
+weight = "10"
+
+[[menus.search]]
+name = "Archives"
+title = "Archives"
+url = "/archives"
+weight = "20"
+
+[[menus.search]]
+name = "Tags"
+title = "Tags"
+url = "/tags"
+weight = "30"
