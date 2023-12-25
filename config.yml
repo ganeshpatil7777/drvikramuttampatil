@@ -178,31 +178,21 @@ menus:
       pre: search
       url: "/search"
       weight: "30"
-    - name: Contact
-      title: Contact
-      pre: mail
-      url: "/contact"
-      weight: "80"
-    - name: Case Study
-      title: Case Study
-      pre: pen-tool
-      url: ""
-      weight: "50"
-    - name: Specialities
-      title: Specialities
-      pre: ""
-      url: ""
-      weight: "60"
     - name: Procedures
       title: Procedures
       pre: ""
       url: ""
-      weight: "70"
-    - name: Members Off
-      title: Members Off
-      pre: ""
+      weight: "40"
+    - name: Members Of
+      title: Members Of
+      pre: "/membersOf"
       url: ""
-      weight: "70"
+      weight: "50"
+    - name: Contact
+      title: Contact
+      pre: mail
+      url: "/contact"
+      weight: "60"
   search: # Search page's quick links
     - name: Categories
       title: Categories
