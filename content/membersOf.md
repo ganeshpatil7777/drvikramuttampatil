@@ -3,7 +3,6 @@ title: "Member Off" # in any language you want
 # url: "/archive"
 description: "Dr. Vikram Uttam Patil is a "
 disableShare: true
-layout: contact
 ShowReadingTime: false
 showToc: false
 ---
