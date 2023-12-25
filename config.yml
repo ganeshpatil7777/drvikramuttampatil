@@ -185,8 +185,8 @@ menus:
       weight: "40"
     - name: Members Of
       title: Members Of
-      pre: "/membersOf"
-      url: ""
+      pre: "membersOf"
+      url: "/membersOf"
       weight: "50"
     - name: Contact
       title: Contact
