@@ -16,6 +16,35 @@ ShowShareButtons: false
 
 ![Jaundice](/services/Jaundice.png)
 
+Dr. Gajanan Rodge, a dedicated Gastroenterologist at Bombay Hospital, Specialist in Chronic Liver Disease Treatment. His expertise extends to General Gastroenterology, Interventional Endoscopy, Hepatology, and Gastrointestinal (GI) care, making him a trusted healthcare professional in Mumbai.
+
+The liver is an organ about the size of a football. It sits just under your rib cage on the right side of your abdomen. The liver is essential for digesting food and ridding your body of toxic substances.
+
+Liver disease can be inherited (genetic). Liver problems can also be caused by a variety of factors that damage the liver, such as viruses, alcohol use and obesity.
+
+Over time, conditions that damage the liver can lead to scarring (cirrhosis), which can lead to liver failure, a life-threatening condition. But early treatment may give the liver time to heal.
+
+Symptoms
+Liver disease doesn't always cause noticeable signs and symptoms. If signs and symptoms of liver disease do occur, they may include:
+
+Skin and eyes that appear yellowish (jaundice)
+Abdominal pain and swelling
+Swelling in the legs and ankles
+Itchy skin
+Dark urine color
+Pale stool color
+Chronic fatigue
+Nausea or vomiting
+Loss of appetite
+Loss of appetite
+
+Symptoms of jaundice commonly include:
+Yellow skin and the white part of the eyes (sclera) -- when jaundice is more severe, these areas may look brown.
+Yellow color inside the mouth.
+Dark or brown-colored urine.
+Pale or clay-colored stools.
+Itching (pruritis) usually occurs with jaundice.
+
 ## Pancreatitis- Acute and Chronic
 
 ![Pancreatitis](/images/Pancreatitis.png)
