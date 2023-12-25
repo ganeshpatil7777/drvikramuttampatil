@@ -201,7 +201,7 @@ menus:
     - name: Members Of
       title: Members Of
       pre: "membersof"
-      url: "membersof.md"
+      url: "membersof"
       weight: "70"
   search: # Search page's quick links
     - name: Categories
