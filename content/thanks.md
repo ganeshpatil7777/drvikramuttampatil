@@ -13,7 +13,7 @@ summary: "thanks"
             <h1>Thank you for your submission.</h1>
             <h2>I will get back to you as soon as I can.</h2>
         </hgroup>
-        
+
         <a role="button" href="{{ "/" | absLangURL }}">Return home</a>
 
 {{< /rawhtml >}}

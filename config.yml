@@ -183,8 +183,8 @@ menus:
       pre: mail
       url: "/contact"
       weight: "80"
-    - name: Specialities
-      title: Specialities
+    - name: Members Of
+      title: MembersOf
       pre: ""
       url: ""
       weight: "60"
