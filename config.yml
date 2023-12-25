@@ -183,11 +183,6 @@ menus:
       pre: mail
       url: "/contact"
       weight: "80"
-    - name: Case Study
-      title: Case Study
-      pre: pen-tool
-      url: ""
-      weight: "50"
     - name: Specialities
       title: Specialities
       pre: ""
@@ -197,11 +192,6 @@ menus:
       title: Procedures
       pre: ""
       url: ""
-      weight: "70"
-    - name: Members Of
-      title: Members Of
-      pre: "membersof"
-      url: "membersof"
       weight: "70"
   search: # Search page's quick links
     - name: Categories
