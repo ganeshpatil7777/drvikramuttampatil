@@ -170,20 +170,6 @@ url = "/contact"
 weight = "80"
 
 [[menus.main]]
-name = "Case Study"
-title = "Case Study"
-pre = "pen-tool"
-url = ""
-weight = "50"
-
-[[menus.main]]
-name = "Specialities"
-title = "Specialities"
-pre = ""
-url = ""
-weight = "60"
-
-[[menus.main]]
 name = "Procedures"
 title = "Procedures"
 pre = ""
@@ -191,10 +177,10 @@ url = ""
 weight = "70"
 
 [[menus.main]]
-name = "Members Off"
-title = "Members Off"
-pre = ""
-url = ""
+name = "Members Of"
+title = "Members Of"
+pre = "membersof"
+url = "/membersof"
 weight = "70"
 
 [[menus.search]]
