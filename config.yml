@@ -183,7 +183,7 @@ menus:
       pre: ""
       url: ""
       weight: "40"
-    - name: Members Of
+    - name: MembersOf
       title: Members Of
       pre: "membersOf"
       url: "/membersOf"
