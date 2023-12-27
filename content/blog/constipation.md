@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Constipation
-
 ![Constipation](/services/Constipation.png)

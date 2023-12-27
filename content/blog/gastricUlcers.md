@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Gastric Ulcers
-
 ![Gastric Ulcers](/services/GastricUlcers.png)

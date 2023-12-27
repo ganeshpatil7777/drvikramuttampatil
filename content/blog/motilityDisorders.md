@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Motility disorders
-
 ![Motility disorders](/services/MotilityDisorders.png)

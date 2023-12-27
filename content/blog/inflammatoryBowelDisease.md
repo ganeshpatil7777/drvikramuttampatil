@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Inflammatory Bowel Disease-Crohn’s Disease / Ulcerative Colitis
-
 ![Inflammatory Bowel](/services/InflammatoryBowel.png)

@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## GI cancers
-
 ![GI cancers](/services/GICancers.png)

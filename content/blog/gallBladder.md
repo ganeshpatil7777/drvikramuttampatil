@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: tr
 ---
 
-## Gall bladder diseases
-
 ![Gall bladder](/services/GallBladder.png)

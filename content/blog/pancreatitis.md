@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Pancreatitis- Acute and Chronic
-
 ![Pancreatitis](/services/Pancreatitis.png)

@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Hemorrhoids (Non-surgical)
-
 ![Hemorrhoids](/services/Hemorrhoids.png)

@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Gastroesophageal reflux disease
-
 ![Gastroesophageal](/services/Gastroesophageal.png)

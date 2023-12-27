@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Chronic Liver Disease
-
 ![Chronic Liver ](/services/ChronicLiver.png)

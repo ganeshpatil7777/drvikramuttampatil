@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Hepatitis
-
 ![Hepatitis](/services/Hepatitis.png)

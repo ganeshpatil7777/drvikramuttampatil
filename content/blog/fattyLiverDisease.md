@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Fatty Liver Disease
-
 ![Fatty Liver](/services/FattyLiver.png)

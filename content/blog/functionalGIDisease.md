@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Functional GI Disease including Irritable Bowel Syndrome
-
 ![Functional GI](/services/FunctionalGI.png)

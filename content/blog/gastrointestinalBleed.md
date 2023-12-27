@@ -10,6 +10,4 @@ ShowToc: true
 TocOpen: true
 ---
 
-## Gastrointestinal bleed
-
 ![Gastrointestinal bleed](/services/Gastrointestinalbleed.png)

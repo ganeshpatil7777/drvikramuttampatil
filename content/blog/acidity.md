@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Acidity- Dyspepsia/ Gas/ Bloating
-
 ![Acidity](/services/Acidity.png)

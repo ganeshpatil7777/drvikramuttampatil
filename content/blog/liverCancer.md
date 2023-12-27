@@ -12,6 +12,4 @@ ShowBreadCrumbs: false
 ShowShareButtons: false
 ---
 
-## Liver cancer
-
 ![HeLiver cancerpatitis](/services/LiverCancer.png)
