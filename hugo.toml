@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Dr. Vikram Uttam Patil"
 theme = "piko"
 paginate = "9"
-copyright = 'A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")'
+copyright = ''
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -176,16 +176,16 @@ weight = "80"
 [[menus.main]]
 name = "Procedures"
 title = "Procedures"
-pre = ""
-url = ""
+pre = "video"
+url = "/videos"
 weight = "70"
 
 [[menus.main]]
 name = "Members Of"
 title = "Members Of"
-pre = "membersof"
+pre = "book"
 url = "/membersof"
-weight = "70"
+weight = "50"
 
 [[menus.search]]
 name = "Categories"

@@ -4,6 +4,7 @@ title: "Members Of" # in any language you want
 # url: "/archive"
 # description: "Description for Search"
 summary: "search"
+disableShare: true
 ---
 
 - Member of National Academy of Medical Sciences -MNAMS
