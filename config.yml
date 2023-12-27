@@ -115,7 +115,7 @@ params:
         alt: # image alt for better SEO
         description: Award Four.
         websiteUrl: #
-      - imageUrl: /awards/prize5.jpeg
+      - imageUrl: /awards/prize5.jpg
         alt: # image alt for better SEO
         description: Award Five.
         websiteUrl: #
