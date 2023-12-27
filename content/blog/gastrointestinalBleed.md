@@ -1,8 +1,8 @@
 ---
-author: "Hugo Authors"
+# author: "Hugo Authors"
 title: "Gastrointestinal Bleed"
-date: "2019-03-10"
-description: "A brief description of Hugo Shortcodes"
+# date: "2019-03-10"
+# description: "A brief description of Hugo Shortcodes"
 tags: []
 image: "/services/Gastrointestinalbleed.png"
 categories: ["themes", "syntax"]

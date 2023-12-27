@@ -22,10 +22,10 @@ url('{{.Params.Image}}');">
 {{ range $paginator.Pages }}
     <a href="{{ .RelPermalink }}">
       <article class="text-center">
-        {{if .Params.Cover.Image}}
+        {{if .Params.Image}}
         <figure>
           <img
-            src="{{.Params.Cover.Image | absURL}}"
+            src="{{.Params.Image | absURL}}"
             width="600"
             height="400"
             layout="responsive"

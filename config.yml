@@ -37,7 +37,7 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Ganesh Patil
+  author:
   description: Your website description
   math: false
   images:

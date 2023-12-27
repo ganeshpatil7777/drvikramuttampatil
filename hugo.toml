@@ -27,7 +27,7 @@ keepWhitespace = false
 
 [params]
 env = "production"
-author = "Ganesh Patil"
+author = ""
 description = "Your website description"
 math = false
 images = [ "/uploads/og.webp" ]
