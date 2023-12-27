@@ -3,7 +3,7 @@ baseURL: https://main--celebrated-cannoli-fa0a3d.netlify.app/
 languageCode: en-us
 title: Dr. Vikram Uttam Patil
 theme: piko
-paginate: "9"
+paginate: "20"
 copyright:
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
