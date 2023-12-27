@@ -189,12 +189,12 @@ menus:
       weight: "80"
     - name: Members Of
       title: MembersOf
-      pre: ""
+      pre: "book"
       url: "/membersof"
       weight: "60"
     - name: Procedures
       title: Procedures
-      pre: "single"
+      pre: "video"
       url: "/videos"
       weight: "70"
   search: # Search page's quick links
