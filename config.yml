@@ -125,7 +125,7 @@ params:
         websiteUrl: #
     # Search Options (https://fusejs.io/)
     # Testimonial Section
-    disableTestimonialSection: false
+    disableTestimonialSection: true
     testimonialTitle: Testimonial
     testimonialDescription: Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
     testimonial:
