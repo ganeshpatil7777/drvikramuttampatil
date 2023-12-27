@@ -63,14 +63,16 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
       3) }} {{ range $paginator.Pages }}
       <a href="{{ .RelPermalink }}">
         <article class="text-center">
-          <figure>
-            {{/*  <img
-              src="/awards/prize4.jpg"
-              width="600"
-              height="400"
-              layout="responsive"
-            ></img>  */}}
-          </figure>
+          {{if .Params.image}}
+            <figure>
+              <img
+                src="{{.Params.image | absURL}}"
+                width="600"
+                height="400"
+                layout="responsive"
+              ></img>
+              {{ end }}
+            </figure>
           <hgroup>
             <h3>{{ .Title }}</h3>
             <hr />
@@ -79,7 +81,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
               .Truncated }}...{{ end }}
             </p>
           </hgroup>
-          {{/*  <small> {{- partial "post_meta.html" . -}} </small>  */}}
+          <small> {{- partial "post_meta.html" . -}} </small>
         </article>
       </a>
       {{ end }}
