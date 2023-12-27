@@ -192,8 +192,8 @@ menus:
       pre: "book"
       url: "/membersof"
       weight: "60"
-    - name: Procedures
-      title: Procedures
+    - name: Gallery
+      title: Gallery
       pre: "video"
       url: "/videos"
       weight: "70"

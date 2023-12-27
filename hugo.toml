@@ -174,8 +174,8 @@ url = "/contact"
 weight = "80"
 
 [[menus.main]]
-name = "Procedures"
-title = "Procedures"
+name = "Gallery"
+title = "Gallery"
 pre = "video"
 url = "/videos"
 weight = "70"
