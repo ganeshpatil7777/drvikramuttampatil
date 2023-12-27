@@ -189,7 +189,7 @@ menus:
       weight: "80"
     - name: Members Of
       title: MembersOf
-      pre: "membersof"
+      pre: ""
       url: "/membersof"
       weight: "60"
     - name: Procedures
