@@ -204,8 +204,8 @@ menus:
       pre: mail
       url: "/contact"
       weight: "80"
-    - name: Members Of
-      title: MembersOf
+    - name: Member Of
+      title: Member Of
       pre: "book"
       url: "/membersof"
       weight: "60"

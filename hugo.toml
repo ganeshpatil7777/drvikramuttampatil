@@ -206,8 +206,8 @@ url = "/procedures"
 weight = "70"
 
 [[menus.main]]
-name = "Members Of"
-title = "Members Of"
+name = "Member  Of"
+title = "Member Of"
 pre = "book"
 url = "/membersof"
 weight = "50"
