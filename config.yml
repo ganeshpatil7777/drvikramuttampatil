@@ -75,7 +75,7 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: Dr. Vikram Uttam Patil
-    heroTitle: MBBS, DNB(Medicine) NBE MD, DrNB (Gastroenterologist) MNAMS.
+    heroTitle: MBBS, DNB(Medicine), DrNB (Gastroenterologist) MNAMS.
     heroDescription:
     heroDescription1: Gastroenterologist, Liver specialist and Interventional Endoscopist.
     heroCTAPrimaryText: Our services & specialties
@@ -93,7 +93,7 @@ params:
     aboutTitle: About
     aboutDescription: Top Gastroenterologist, hepatologist and interventional endoscopist
     aboutImgUrl: "vicky.jpeg"
-    aboutContent: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Vishwaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 12+ articles in various national and international journals.
+    aboutContent: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy, Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Vishwaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 12+ articles in various national and international journals.
 
     # Portfolio Section
     disablePortfolioSection: false
