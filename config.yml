@@ -96,7 +96,7 @@ params:
 
     # Portfolio Section
     disablePortfolioSection: false
-    portfolioTitle: Awards
+    portfolioTitle: Awards & Recognitions
     portfolioDescription: Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
     portfolio:
       - imageUrl: /awards/Prize 1.jpeg

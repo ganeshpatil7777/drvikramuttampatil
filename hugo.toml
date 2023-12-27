@@ -84,9 +84,9 @@ ShowBreadCrumbs = true
   aboutImgUrl = "vicky.jpeg"
   aboutContent = "Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Viswaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 10+ articles in various national and international journals."
   disablePortfolioSection = false
-  portfolioTitle = "Awards"
+  portfolioTitle = "Awards & Recognitions"
   portfolioDescription = "Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
-  disableTestimonialSection = false
+  disableTestimonialSection = true
   testimonialTitle = "Testimonial"
   testimonialDescription = "Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
 
@@ -111,7 +111,7 @@ ShowBreadCrumbs = true
     description = "Award Five."
 
     [[params.homepage.portfolio]]
-    imageUrl = "/awards/prize6.jpg"
+    imageUrl = "/awards/Prize6.jpg"
     description = "Best Thesis Award by ISGCON 2023, Bangalore."
 
     [[params.homepage.testimonial]]
