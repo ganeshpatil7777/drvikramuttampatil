@@ -107,7 +107,7 @@ ShowBreadCrumbs = true
     description = "Award Four."
 
     [[params.homepage.portfolio]]
-    imageUrl = "/awards/prize5.jpeg"
+    imageUrl = "/awards/prize5.jpg"
     description = "Award Five."
 
     [[params.homepage.testimonial]]
@@ -127,7 +127,7 @@ ShowBreadCrumbs = true
     description = "Best doctor for any digestive issues in pune."
 
     [[params.homepage.testimonial]]
-    imageUrl = "/awards/prize5.jpeg"
+    imageUrl = "/awards/prize5.jpg"
     description = "Best doctor for any digestive issues in pune"
 
     [params.homepage.cover]
