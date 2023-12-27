@@ -1,7 +1,7 @@
 ---
-author: "Hugo Authors"
+# author: "Hugo Authors"
 title: "Acidity"
-date: "2022-03-05"
+# date: "2022-03-05"
 description: "Dr. Vikram Uttam Patil provides services in multiple disorders"
 # tags: ["images", "markdown", "css", "html", "themes"]
 image: "/services/Acidity.png"
