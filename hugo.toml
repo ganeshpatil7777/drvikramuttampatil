@@ -91,28 +91,44 @@ ShowBreadCrumbs = true
   testimonialDescription = "Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra."
 
     [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize7.jpg"
+    description = "Winner of Medical Quiz Competition, APICON 2017."
+
+    [[params.homepage.portfolio]]
     imageUrl = "/awards/Prize 1.jpeg"
-    description = "Award One."
+    description = "First Prize in Case Presentation, 4th Bangalore Neuro Update 2017."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize8.jpg"
+    description = "Oral Platform and Poster Presentation, APICON 2018."
+    
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize 3.jpeg"
+    description = "First Prize in Case Presentation at 6th Gastroenterology Summit 2021."
+    
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize9.jpg"
+    description = "Case Presentation at GYM 2022."
 
     [[params.homepage.portfolio]]
     imageUrl = "/awards/prize 2.jpeg"
-    description = "Award Two."
-
-    [[params.homepage.portfolio]]
-    imageUrl = "/awards/prize 3.jpeg"
-    description = "Award Three."
+    description = "Endoscopy Quiz Winner, Gastrocon 2022."
 
     [[params.homepage.portfolio]]
     imageUrl = "/awards/prize4.jpg"
-    description = "Award Four."
+    description = " First Prize in Video Contest at ERCP LIVE, Mumbai 2023"
 
     [[params.homepage.portfolio]]
     imageUrl = "/awards/prize5.jpg"
-    description = "Award Five."
+    description = "Asian EUS Training Completion Certificate,Mumbai 2023."
 
     [[params.homepage.portfolio]]
     imageUrl = "/awards/Prize6.jpg"
     description = "Best Thesis Award by ISGCON 2023, Bangalore."
+
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize10.jpg"
+    description = "Poster Presentation at Digestive Disease Week, Chicago 2023."
 
     [[params.homepage.testimonial]]
     imageUrl = "/awards/Prize 1.jpeg"

@@ -99,29 +99,45 @@ params:
     portfolioTitle: Awards & Recognitions
     portfolioDescription: Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
     portfolio:
+      - imageUrl: /awards/prize7.jpg
+        alt: # image alt for better SEO
+        description: Winner of Medical Quiz Competition, APICON 2017.
+        websiteUrl: #
       - imageUrl: /awards/Prize 1.jpeg
         alt: # image alt for better SEO
-        description: Award One.
+        description: First Prize in Case Presentation, 4th Bangalore Neuro Update 2017.
         websiteUrl: #
-      - imageUrl: /awards/prize 2.jpeg
+      - imageUrl: /awards/prize8.jpg
         alt: # image alt for better SEO
-        description: Award Two.
+        description: Oral Platform and Poster Presentation, APICON 2018.
         websiteUrl: #
       - imageUrl: /awards/prize 3.jpeg
         alt: # image alt for better SEO
-        description: Award Three.
+        description: First Prize in Case Presentation at 6th Gastroenterology Summit 2021.
+        websiteUrl: #
+      - imageUrl: /awards/prize9.jpg
+        alt: # image alt for better SEO
+        description: Case Presentation at GYM 2022.
+        websiteUrl: #
+      - imageUrl: /awards/prize 2.jpeg
+        alt: # image alt for better SEO
+        description: Endoscopy Quiz Winner, Gastrocon 2022.
         websiteUrl: #
       - imageUrl: /awards/prize4.jpg
         alt: # image alt for better SEO
-        description: Award Four.
+        description: First Prize in Video Contest at ERCP LIVE, Mumbai 2023.
         websiteUrl: #
       - imageUrl: /awards/prize5.jpg
         alt: # image alt for better SEO
-        description: Award Five.
+        description: Asian EUS Training Completion Certificate,Mumbai 2023.
         websiteUrl: #
       - imageUrl: /awards/prize6.jpg
         alt: # image alt for better SEO
         description: Best Thesis Award by ISGCON 2023, Bangalore.
+        websiteUrl: #
+      - imageUrl: /awards/prize10.jpg
+        alt: # image alt for better SEO
+        description: Poster Presentation at Digestive Disease Week, Chicago 2023.
         websiteUrl: #
     # Search Options (https://fusejs.io/)
     # Testimonial Section
