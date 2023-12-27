@@ -86,7 +86,7 @@ params:
     disableBlogSection: false
     blogTitle: Our services & specialties
     blogDescription: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
-    seeMoreText: More Posts
+    seeMoreText: More Services Offered
     # About Section
     disableAboutSection: false
     aboutTitle: About
@@ -189,8 +189,8 @@ menus:
       weight: "80"
     - name: Members Of
       title: MembersOf
-      pre: ""
-      url: ""
+      pre: "membersof"
+      url: "/membersof"
       weight: "60"
     - name: Procedures
       title: Procedures
