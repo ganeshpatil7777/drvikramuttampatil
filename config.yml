@@ -119,6 +119,10 @@ params:
         alt: # image alt for better SEO
         description: Award Five.
         websiteUrl: #
+      - imageUrl: /awards/prize6.jpg
+        alt: # image alt for better SEO
+        description: Best Thesis Award by ISGCON 2023, Bangalore.
+        websiteUrl: #
     # Search Options (https://fusejs.io/)
     # Testimonial Section
     disableTestimonialSection: false

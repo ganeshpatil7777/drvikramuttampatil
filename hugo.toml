@@ -110,6 +110,10 @@ ShowBreadCrumbs = true
     imageUrl = "/awards/prize5.jpg"
     description = "Award Five."
 
+    [[params.homepage.portfolio]]
+    imageUrl = "/awards/prize6.jpg"
+    description = "Best Thesis Award by ISGCON 2023, Bangalore."
+
     [[params.homepage.testimonial]]
     imageUrl = "/awards/Prize 1.jpeg"
     description = "Best doctor for any digestive issues in pune."
