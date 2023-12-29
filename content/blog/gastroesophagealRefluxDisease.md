@@ -1,6 +1,6 @@
 ---
 # author: "Hugo Authors"
-title: "Gastroesophageal Reflux Disease"
+title: "Gastroesophageal Reflux "
 # date: "2022-03-05"
 # description: "Dr. Vikram Uttam Patil provides services in multiple disorders"
 # tags: ["images", "markdown", "css", "html", "themes"]

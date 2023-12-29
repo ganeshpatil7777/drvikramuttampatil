@@ -1,6 +1,6 @@
 ---
 # author: "Hugo Authors"
-title: "Functional GI Disease including Irritable Bowel Syndrome"
+title: "Functional GI"
 # date: "2022-03-05"
 # description: "Dr. Vikram Uttam Patil provides services in multiple disorders"
 # tags: ["images", "markdown", "css", "html", "themes"]
