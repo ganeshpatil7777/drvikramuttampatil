@@ -193,32 +193,32 @@ menus:
       title: Services
       pre: book
       url: "/blog"
-      weight: "20"
+      weight: "10"
     - name: Search
       title: Search
       pre: search
       url: "/search"
-      weight: "30"
+      weight: "50"
     - name: Contact
       title: Contact
       pre: mail
       url: "/contact"
-      weight: "80"
+      weight: "60"
     - name: Member Of
       title: Member Of
       pre: "book"
       url: "/membersof"
-      weight: "60"
+      weight: "30"
     - name: Gallery
       title: Gallery
       pre: "video"
       url: "/videos"
-      weight: "70"
+      weight: "40"
     - name: Procedures
       title: Procedures
       pre: "video"
       url: "/procedures"
-      weight: "70"
+      weight: "20"
   search:# Search page's quick links
     # - name: Categories
     #   title: Categories
