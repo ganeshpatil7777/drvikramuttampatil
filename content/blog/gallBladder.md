@@ -1,6 +1,6 @@
 ---
 # author: "Hugo Authors"
-title: "Gall Bladder"
+title: "Gall Bladder Diseases"
 # date: "2022-03-05"
 # description: "Dr. Vikram Uttam Patil provides services in multiple disorders"
 # tags: ["images", "markdown", "css", "html", "themes"]
