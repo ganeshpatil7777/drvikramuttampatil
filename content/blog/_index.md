@@ -1,5 +1,5 @@
 ---
 title: Services
-image: "/uploads/portfolio-2.webp"
+image: "/uploads/1.jpg"
 description:
 ---
