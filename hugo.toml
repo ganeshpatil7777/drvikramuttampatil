@@ -212,20 +212,3 @@ pre = "book"
 url = "/membersof"
 weight = "50"
 
-[[menus.search]]
-name = "Categories"
-title = "Categories"
-url = "/categories"
-weight = "10"
-
-[[menus.search]]
-name = "Archives"
-title = "Archives"
-url = "/archives"
-weight = "20"
-
-[[menus.search]]
-name = "Tags"
-title = "Tags"
-url = "/tags"
-weight = "30"

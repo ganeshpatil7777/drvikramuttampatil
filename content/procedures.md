@@ -7,12 +7,25 @@ summary: "search"
 disableShare: true
 ---
 
-- Gastroscopy
-- Colonoscopy
-- Esophageal dilataions
-- Esophageal Variceal Band Ligation (EVL)
-- Endoscopic retrograde cholangiopancreatography (ERCP)
-- Enteroscopy
-- Percutaneous endoscopic gastroscopy (PEG) tube placement
-- Endoscopic Foreign Body removal
-- Endoscopic Ultrasound (EUS)
+{{< rawhtml >}}
+
+<p class="search-result">Gastroscopy</p>
+
+<p class="search-result">Colonoscopy</p>
+
+<p class="search-result">Esophageal dilataions</p>
+
+<p class="search-result">Esophageal Variceal Band Ligation (EVL)</p>
+
+<p class="search-result">Endoscopic retrograde cholangiopancreatography (ERCP)</p>
+
+<p class="search-result">Enteroscopy</p>
+
+<p class="search-result">Percutaneous endoscopic gastroscopy (PEG) tube placement</p>
+
+<p class="search-result">Endoscopic Foreign Body removal</p>
+<p class="search-result">Endoscopic Ultrasound (EUS)</p>
+
+<p class="search-result">Colonoscopy</p>
+
+{{< /rawhtml >}}
