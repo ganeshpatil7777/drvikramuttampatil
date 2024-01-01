@@ -220,15 +220,3 @@ menus:
       url: "/procedures"
       weight: "20"
   search:# Search page's quick links
-    # - name: Categories
-    #   title: Categories
-    #   url: "/categories"
-    #   weight: "10"
-    # - name: Archives
-    #   title: Archives
-    #   url: "/archives"
-    #   weight: "20"
-    # - name: Tags
-    #   title: Tags
-    #   url: "/tags"
-    #   weight: "30"
