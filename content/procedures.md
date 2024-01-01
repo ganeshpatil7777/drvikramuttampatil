@@ -24,8 +24,7 @@ disableShare: true
 <p class="search-result">Percutaneous endoscopic gastroscopy (PEG) tube placement</p>
 
 <p class="search-result">Endoscopic Foreign Body removal</p>
-<p class="search-result">Endoscopic Ultrasound (EUS)</p>
 
-<p class="search-result">Colonoscopy</p>
+<p class="search-result">Endoscopic Ultrasound (EUS)</p>
 
 {{< /rawhtml >}}
