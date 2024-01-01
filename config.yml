@@ -219,4 +219,3 @@ menus:
       pre: "video"
       url: "/procedures"
       weight: "20"
-  search:# Search page's quick links
