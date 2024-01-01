@@ -175,40 +175,40 @@ name = "Blog"
 title = "Services"
 pre = "book"
 url = "/blog"
-weight = "10"
+weight = "20"
 
 [[menus.main]]
 name = "Search"
 title = "Search"
 pre = "search"
 url = "/search"
-weight = "50"
+weight = "60"
 
 [[menus.main]]
 name = "Contact"
 title = "Contact"
 pre = "mail"
 url = "/contact"
-weight = "60"
+weight = "70"
 
 [[menus.main]]
 name = "Gallery"
 title = "Gallery"
 pre = "video"
 url = "/videos"
-weight = "40"
+weight = "60"
 
 [[menus.main]]
 name = "Procedures"
 title = "Procedures"
 pre = "video"
 url = "/procedures"
-weight = "20"
+weight = "30"
 
 [[menus.main]]
 name = "Member  Of"
 title = "Member Of"
 pre = "book"
 url = "/membersof"
-weight = "30"
+weight = "40"
 
