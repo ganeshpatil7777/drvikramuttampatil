@@ -86,14 +86,14 @@ params:
     # Blog Section
     disableBlogSection: false
     blogTitle: Our services & specialties
-    blogDescription: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
+    blogDescription: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Hadapsar Pune, Maharashtra.
     seeMoreText: More Services Offered
     # About Section
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Best Gastroenterologist, hepatologist and interventional endoscopist in Pune.
+    aboutDescription: Best Gastroenterologist, hepatologist and interventional endoscopist in Hadapsar Pune.
     aboutImgUrl: "vicky.jpeg"
-    aboutContent: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy, Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Vishwaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 12+ articles in various national and international journals.
+    aboutContent: Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Hadapsar Pune, Maharashtra. He has done more than 3000 endoscopy which includes- Gastroscopy, Colonoscopy, Enteroscopy, ERCP, EUS, Manometry and interventional therapeutics procedures. He is currently working at Vishwaraj Multispecialty Hospital, Loni Kalbhor, Pune. He has published 12+ articles in various national and international journals.
 
     # Portfolio Section
     disablePortfolioSection: false
@@ -144,7 +144,7 @@ params:
     # Testimonial Section
     disableTestimonialSection: true
     testimonialTitle: Testimonial
-    testimonialDescription: Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Pune, Maharashtra.
+    testimonialDescription: Prize awarded to Dr. Vikram Uttam Patil is a top Gastroenterologist, hepatologist and interventional endoscopist practicing in Hadapsar Pune, Maharashtra.
     testimonial:
       - imageUrl: /awards/Prize 1.jpeg
         alt: # image alt for better SEO
