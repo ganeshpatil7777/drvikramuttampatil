@@ -61,7 +61,7 @@ params:
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
-  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  contactFormAction: https://formsubmit.io/send/drvikramuttampatil@gmail.com
   assets:
     disableFingerprinting: false
     favicon: /uploads/zap.svg
@@ -213,6 +213,11 @@ menus:
       title: Gallery
       pre: "video"
       url: "/videos"
+      weight: "40"
+    - name: Locations
+      title: Locations
+      pre: "map"
+      url: "/location"
       weight: "40"
     - name: Procedures
       title: Procedures

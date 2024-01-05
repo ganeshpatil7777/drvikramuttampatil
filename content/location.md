@@ -1,13 +1,16 @@
 ---
 title: "Contact" # in any language you want
-layout: "contact" # is necessary
+# layout: "contact" # is necessary
 # url: "/archive"
 # description: "Description for Search"
 summary: "search"
 disableShare: true
 ---
 
-## Contact Detials
+## Connect with us
+
+Mobile Number : +91 9850817555
+Email Address : drvikramuttampatil@gmail.com
 
 ## Vishwaraj Hospital
 
@@ -37,12 +40,12 @@ For Appointment Contact 07720062062
 
 {{< /rawhtml >}}
 
-## Vardhan Clinic
+## Vardhan Gastro and Liver Clinic
 
 {{< rawhtml >}}
 
 <p> 
-Vardhan Clinic <br>
+Vardhan Gastro and Liver Clinic <br>
 Above Maruti Suzuki Showroom <br>
 Alephata <br>
 For Appointment Contact 08446997475

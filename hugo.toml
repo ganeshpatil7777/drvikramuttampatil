@@ -42,6 +42,7 @@ CookieButton = "Cookies Policy"
 disableAnchoredHeadings = false
 ShowReadingTime = false
 ShowBreadCrumbs = true
+contactFormAction = "https://formsubmit.io/send/drvikramuttampatil@gmail.com"
 
 [params.analytics.google]
 
@@ -196,6 +197,13 @@ name = "Gallery"
 title = "Gallery"
 pre = "video"
 url = "/videos"
+weight = "60"
+
+[[menus.main]]
+name = "Locations"
+title = "Locations"
+pre = "map"
+url = "/location"
 weight = "60"
 
 [[menus.main]]
