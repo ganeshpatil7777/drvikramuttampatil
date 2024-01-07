@@ -13,11 +13,3 @@ ShowShareButtons: false
 ---
 
 ![Jaundice](/services/Jaundice.png)
-
-Symptoms of jaundice commonly include:
-
-- Yellow skin and the white part of the eyes (sclera) -- when jaundice is more severe, these areas may look brown.
-- Yellow color inside the mouth.
-- Dark or brown-colored urine.
-- Pale or clay-colored stools.
-- Itching (pruritis) usually occurs with jaundice.
