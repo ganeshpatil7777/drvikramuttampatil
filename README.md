@@ -29,7 +29,9 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 </p>
 
 ---
+
 ## Features
+
 - Powered by [Hugo Static Site Generator](https://gohugo.io/ "Hugo: The world’s fastest framework for building websites")
 - Styled by [Pico CSS](https://picocss.com/ "Pico CSS")
 - [SASS/SCSS](https://sass-lang.com/)
@@ -49,26 +51,30 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 - Twitter card meta tag
 
 ---
+
 ## Quick Deploy
 
 1. Have a free/paid version:
+
 - [Github Account](https://github.com/)
 - [Netlify Account](https://www.netlify.com/)
 
 2. Then click:
-   
+
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/heksagonnet/piko)
 
 And click next for all.
 
 ---
+
 ## Local Development
 
 If you wish to develop in your local environment, make sure you have installed:
+
 - [Hugo](https://gohugo.io/getting-started/installing/)
 - [Git](https://git-scm.com/downloads)
- 
+
 Then open command prompt in your development folder.
 
 ```yml
@@ -123,3 +129,9 @@ $ hugo server --themesDir ../..
 Besides developing stunning and blazing fast website templates, I also provide web design services. My speciality is in creating high-quality static websites based on Hugo.
 
 If you are interested to know more, do not hesitate to [contact me here.](https://www.heksagon.net/contact/)
+
+## Once you make changes
+
+To run locally `hugo server ../..` and enter
+To generate deploy script `hugo` and enter
+Once the public is ready deploy the changes done.

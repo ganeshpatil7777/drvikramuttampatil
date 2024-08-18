@@ -12,6 +12,20 @@ disableShare: true
 {{< rawhtml >}}
 Mobile Number : 08446997475 <br>
 Email Address : drvikramuttampatil@gmail.com
+</br>
+{{< /rawhtml >}}
+
+## Sahyadri Super Speciality Hospital
+
+{{< rawhtml >}}
+
+<p> 
+Sahyadri Super Speciality Hospital <br>
+Nagar Road, Pune <br>
+Time: 12pm to 6pm (Daily)
+</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.4400798499482!2d73.89443057479221!3d18.554188082545902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1b586a30977%3A0x83beefa066ed5e4!2sSahyadri%20Super%20Speciality%20Hospital%20Nagar%20Road!5e0!3m2!1sen!2snz!4v1723940053221!5m2!1sen!2snz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 {{< /rawhtml >}}
 
 ## Vishwaraj Hospital
@@ -26,20 +40,6 @@ Time: 9am to 3pm (Monday to Saturday)
 </p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.867620278791!2d74.01990577479052!3d18.489654582597872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2e962952e9f33%3A0x981154a5a58c7c16!2sVishwaRaj%20Hospital!5e0!3m2!1sen!2sin!4v1703692752628!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-{{< /rawhtml >}}
-
-## Shaavi PolyClinic
-
-{{< rawhtml >}}
-
-<p> 
-Shaavi PolyClinic <br>
-Shop No. C - 29, Rohan Plaza <br>
-Sade Satra Nali, Hadapsar, Pune <br>
-Time: 6pm to 8pm (Monday to Saturday)
-</p>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.413144985701!2d73.93799537479104!3d18.510223182581356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c21ec28e7df5%3A0xdf68aed98ae7a492!2sShaAvi%20Polyclinic%20and%20Pathology%20-%20(Doctor%20%7C%20Pathology%20%7C%20Diagnostic%20in%20Hadapsar)!5e0!3m2!1sen!2sin!4v1703692559881!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 {{< /rawhtml >}}
 
 ## Vardhan Gastro and Liver Clinic
