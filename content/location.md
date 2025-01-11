@@ -42,11 +42,11 @@ Time: 12pm to 6pm (Daily)
 
 {{< /rawhtml >}}
 
-## Vishwaraj Hospital
+<!-- ## Vishwaraj Hospital
 
 {{< rawhtml >}}
 
-<p> 
+<p>
 Vishwaraj Hospital <br>
 Near Loni Railway station Loni Kalbhor <br>
 Solapur - Pune Hwy, Pune <br>
@@ -54,7 +54,7 @@ Time: 9am to 3pm (Monday to Saturday)
 </p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.867620278791!2d74.01990577479052!3d18.489654582597872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2e962952e9f33%3A0x981154a5a58c7c16!2sVishwaRaj%20Hospital!5e0!3m2!1sen!2sin!4v1703692752628!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 <!-- ## Vardhan Gastro and Liver Clinic
 
