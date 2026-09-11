@@ -24,9 +24,24 @@ Email Address : drvikramuttampatil@gmail.com
 Vardhan Gastro and Liver Clinic <br>
 Ground Floor, Raviraj Astria, Office No, 10 & 11 <br>
 NIBM Kondhwa Link Rd, Pune, Maharashtra 411048<br>
+Time: 6.30pm to 8.30pm (Except Sunday)
 </p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15137.644135294242!2d73.890009!3d18.4650318!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb0fae32373f%3A0xa7b5d2455e31db36!2sVardhan%20Diagnostic%20%26%20Gastro%20Liver%20Clinic!5e0!3m2!1sen!2snz!4v1728691692535!5m2!1sen!2snz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{< /rawhtml >}}
+
+## Vardhan Gastro and Liver Clinic
+
+{{< rawhtml >}}
+
+<p> 
+Vardhan Gastro and Liver Clinic <br>
+1ST Floor, Atharv Feriyaz Plaza, Opposite Shankar Mahraj Road, Near Vijaya Sales <br>
+K K Market Chowk Satara Road, Pune, Maharashtra 411043<br>
+Time: 9am to 11am (Except Sunday)
+</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15137.201991130225!2d73.83791988715821!3d18.470042900000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eb013afc1d91%3A0x4700338b8c7b790!2sVardhan%20Diagnostics%20%26%20Gastro%20Liver%20Clinic!5e0!3m2!1sen!2snz!4v1789153311331!5m2!1sen!2snz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 {{< /rawhtml >}}
 
 ## Sahyadri Super Speciality Hospital
